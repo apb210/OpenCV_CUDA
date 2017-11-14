@@ -11,7 +11,6 @@ using namespace cv;
 
 using namespace std;
 
-//cudaError_t addWithCuda(int *c, const int *a, const int *b, unsigned int size);
 
 
 __global__

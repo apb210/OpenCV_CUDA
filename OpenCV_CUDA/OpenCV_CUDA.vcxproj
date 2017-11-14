@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <CudaCompile Include="kernel1.cu" />
+    <CudaCompile Include="Kernel.cu" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{FD89672F-F59A-46A2-815D-DCB2CC66CCF5}</ProjectGuid>
