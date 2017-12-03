@@ -4,3 +4,8 @@
 2. Solution Explorer -> Properties -> C/C++ -> Add Include directories
   E:\OpenCV\opencv\build\include
   
+3. Linker -> General -> additional library directories
+  E:\OpenCV\opencv\build\x64\vc14\lib;
+
+4. Linker -> Input -> Additional Dependencies -> Copy Libraries
+  opencv_world__d.lib (debug) 
