@@ -1,0 +1,6 @@
+1. Add to the path variable the binaries
+  E:\OpenCV\opencv\build\x64\vc14\bin
+  
+2. Solution Explorer -> Properties -> C/C++ -> Add Include directories
+  E:\OpenCV\opencv\build\include
+  
