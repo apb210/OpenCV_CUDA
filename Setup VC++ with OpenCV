@@ -9,3 +9,12 @@
 
 4. Linker -> Input -> Additional Dependencies -> Copy Libraries
   opencv_world__d.lib (debug) 
+
+
+
+After building using CMake
+
+1. Add to the path variable the binaries
+  E:\OpenCV_CUDA_GL_VS15\build\install\x64\vc14\bin
+  
+  E:\OpenCV_CUDA_GL_VS15\build\install\include
